@@ -1,4 +1,4 @@
-// count inversions
+// count inversions in an array
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
